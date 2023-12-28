@@ -1,0 +1,29 @@
+<mjml>
+  <mj-body background-color="#ecf0f1">
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image width="120px" src="https://i.ibb.co/p0Dx67B/icon.gif" padding-top="40px"></mj-image>
+        <mj-text padding-top="25px" align="center" text-transform="capitalize" font-size="35px" font-weight="500">confirm your email</mj-text>
+        <mj-text padding-bottom="25px" padding-left="50px" padding-right="50px" align="center" text-transform="capitalize" font-size="16px" font-weight="400" line-height="23px">verifying your email gives you access to more features on our website. click the button bellow to join our worlddwide community of learners.</mj-text>
+        <mj-button href="#" background-color="#0aadb6" inner-padding="10px 50px" font-size="16px" text-transform="capitalize" font-weight="100" padding-bottom="35px">confirm email</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecf0f1">
+      <mj-column>
+        <mj-text align="center" padding-top="25px" padding-bottom="25px" font-size="16px" line-height="22px">if you have any questions, please email us at<br /><a href="mailto::customer.success@unlayer.com" style="color:#5a54b2;font-weight:500">customer.success@unlayer.com</a> or visit our FAQS, you can also <br />chat with a reel live human during our operating hours. they can<br /> answer questions about your account.</mj-text>
+        <mj-divider border-color="#cfd3d4" border-width="1px"></mj-divider>
+        <mj-text align="center" padding-top="35px ">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/jvM7Ghc/facebook.png" style="width:25px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/Z6zkf4s/x.png" style="width:25px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/fSkg879/linkedin.png" style="width:25px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/L6xn3Xw/instagram.png" style="width:25px;margin-right:5px" /></a>
+          </div>
+        </mj-text>
+        <mj-text text-transform="uppercase" align="center" font-weight="300" font-size="15px" line-height="25px">home &nbsp; | &nbsp; page &nbsp; | &nbsp; about us &nbsp; | &nbsp; contact us </mj-text>
+        <mj-text align="center" padding-top="0px" padding-bottom="0px" font-size="14px" line-height="22px" font-weight="100">you have received this email as a registered user of <a href="www.unlayer.com" style="color:#5a54b2;font-weight:500">unlayer.com</a><br />can unsubscribe from these emails here.</mj-text>
+        <mj-text align="center" padding-top="10px" padding-bottom="0px" font-size="14px" line-height="22px" font-weight="100">2261 market street #4667 san francisco, ca 94114 all rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
